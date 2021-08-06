@@ -2,8 +2,9 @@
 
 Modificación del firmware de la pantalla TFT de mi Artillery Genius basada en el trabajo de <a rel="bigtreetech" href= "https://github.com/bigtreetech/BIGTREETECH-TouchScreenFirmware/tree/master"> BIGTREETECH</a>.
 
-He incorporado mi logo al iniciar la pantalla 
-<a><img alt="miLogo" style="border-width:0 src="Tarjeta SD\MKS\logo.bmp" width="400" align="center"/></a>
+He incorporado mi logo al iniciar la pantalla:
+
+<img alt="miLogo" style="border-width:0" src="Tarjeta SD\MKS\bmp\logo.bmp" width="400" align="center"/>
 
 # Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
